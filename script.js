@@ -5,6 +5,6 @@ let answ4=prompt("What is one of your hobbies?");
 
 alert(answ1+"'s" +" "+"favorite color is"+" "+answ2+"."+" "+answ3+" "+"is"+" "+ answ1+"'s" +" "+"favorite snack"+"."+" "+ answ1+"'s"+" "+"loves" +" "+ answ4+".");
 
-function write1()
+// function write1()
 let answ1=prompt("What is your name");
  let 
